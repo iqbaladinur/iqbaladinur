@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-My name is Iqbal Adi Nurmansyah, Frontend Developer based in Indonesia.
+My name is Iqbal Adi Nurmansyah, Software Engineer based in Indonesia.
